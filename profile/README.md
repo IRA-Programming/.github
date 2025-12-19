@@ -1,3 +1,3 @@
-**Hello, World!**
+# Welcome
 
-This is the IRA Programming GitHub Organization!
+This is the IRA Programming GitHub Organization! While you take your class, you can use this organization to access certain resources and push your code from class!
