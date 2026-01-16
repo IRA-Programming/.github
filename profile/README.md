@@ -33,6 +33,9 @@ To get permission, you can ask these people:
 2. Any of the C++ teachers
 3. People in the mentor's team
 
+#### Important!
+If you have your own repository with your code here, you are allowed to freely push, edit, and pull your code!
+
 ### If you see an issue, point it out
 There might be issues with the class resources. If you see it, you are free to create an issue to report it. This will gain the attention of the mentors/teachers and they will fix it. Additionally, if you are in class, tell your mentor/teacher directly too.
 
