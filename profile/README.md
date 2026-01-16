@@ -13,6 +13,8 @@ Students will need to have these software for their class:
 
 [GitHub Desktop](https://desktop.github.com/download/)
 
+[Official VEX VS Code Extension](https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode)
+
 As of January 14th, 2025, your computer must be updated to these versions to be able to download the latest software:
 
 | Software    | macOS | Windows | Linux | Easy Accessable Old Versions |
