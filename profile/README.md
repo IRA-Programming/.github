@@ -19,9 +19,21 @@ As of January 14th, 2025, your computer must be updated to these versions to be 
 
 | Software    | macOS | Windows | Linux | Easy Accessable Old Versions |
 | -------- | ------- | ------- | ------- | ------- |
-| [Visual Studio Code](https://code.visualstudio.com/download)  | 12.0+    | Windows 10/11 | ? | ✅ |
-| [GitHub Desktop](https://desktop.github.com/download/) | 12.0+     | Windows 10/11 | ? | ❎ |
+| [Visual Studio Code](https://code.visualstudio.com/download)  | 12.0+    | Windows 10/11 | [Click Here](https://github.com/IRA-Programming/.github/edit/main/profile/README.md#visual-studio-code) | ✅ |
+| [GitHub Desktop](https://desktop.github.com/download/) | 12.0+     | Windows 10/11 | [Click Here](https://github.com/IRA-Programming/.github/edit/main/profile/README.md#github-desktop) | ❎ |
 
+### Linux Requirements
+Due to the way Linux is, the requirements are slightly different and more complicated.
+
+#### Visual Studio Code
+- Linux (Debian): Ubuntu Desktop 20.04, Debian 10
+- Linux (Red Hat): Red Hat Enterprise Linux 8, Fedora 36
+- GLIBCXX version 3.4.25 or later
+- GLIBC version 2.28 or later
+
+#### GitHub Desktop
+- Not supported on Linux
+- Please download Pie-Apps and download via Pie-Apps [Click Here For Download Instructions](https://pi-apps.io/install-app/install-github-desktop-on-linux-arm-device/)
 
 ## Rules
 To maintain the organization and prevent any messes, we ask that you follow these rules:
