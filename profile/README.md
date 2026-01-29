@@ -19,8 +19,8 @@ As of January 14th, 2025, your computer must be updated to these versions to be 
 
 | Software    | macOS | Windows | Linux | Easy Accessable Old Versions |
 | -------- | ------- | ------- | ------- | ------- |
-| [Visual Studio Code](https://code.visualstudio.com/download)  | 12.0+    | Windows 10/11 | [Click Here](https://github.com/IRA-Programming/.github/main/profile/README.md#visual-studio-code) | ✅ |
-| [GitHub Desktop](https://desktop.github.com/download/) | 12.0+     | Windows 10/11 | [Click Here](https://github.com/IRA-Programming/.github/main/profile/README.md#github-desktop) | ❎ |
+| [Visual Studio Code](https://code.visualstudio.com/download)  | 12.0+    | Windows 10/11 | [Click Here](https://github.com/IRA-Programming#visual-studio-code) | ✅ |
+| [GitHub Desktop](https://desktop.github.com/download/) | 12.0+     | Windows 10/11 | [Click Here](https://github.com/IRA-Programming#github-desktop) | ❎ |
 
 ### Linux Requirements
 Due to the way Linux is, the requirements are slightly different and more complicated.
