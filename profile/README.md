@@ -7,7 +7,7 @@
 This is the IRA Programming GitHub Organization! While you take your class, you can use this organization to access certain resources and push your code from class!
 
 ## Required Software
-Students will need to have these software for their class:
+Students will need to have these softwares for their class:
 
 [Visual Studio Code](https://code.visualstudio.com/download)
 
